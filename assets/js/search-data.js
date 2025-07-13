@@ -440,16 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-paper-ink-efficient-k-critical-path-generation-is-accepted-by-2024-acm-ieee-design-automation-conference-dac-big-thanks-to-all-the-contributors-grinning",
+          title: 'Our paper “Ink: Efficient k-Critical Path Generation” is accepted by 2024 ACM/IEEE Design...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-pathgen-an-efficient-parallel-critical-path-generation-algorithm-is-accepted-by-2025-ieee-acm-asia-and-south-pacific-design-automation-conference-asp-dac-big-thanks-to-all-the-contributors-grinning",
+          title: 'Our paper “PathGen: An Efficient Parallel Critical Path Generation Algorithm” is accepted by...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
