@@ -28,8 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-our-paper-ink-efficient-k-critical-path-generation-is-accepted-by-2024-acm-ieee-design-automation-conference-dac-big-thanks-to-all-the-contributors-grinning",
-          title: 'Our paper “Ink: Efficient k-Critical Path Generation” is accepted by 2024 ACM/IEEE Design...',
+            },},{id: "news-our-paper-ink-efficient-incremental-k-critical-path-generation-is-accepted-by-2024-acm-ieee-design-automation-conference-dac-big-thanks-to-all-the-contributors-grinning",
+          title: 'Our paper “Ink: Efficient Incremental k-Critical Path Generation” is accepted by 2024 ACM/IEEE...',
           description: "",
           section: "News",},{id: "news-our-paper-pathgen-an-efficient-parallel-critical-path-generation-algorithm-is-accepted-by-2025-ieee-acm-asia-and-south-pacific-design-automation-conference-asp-dac-big-thanks-to-all-the-contributors-grinning",
           title: 'Our paper “PathGen: An Efficient Parallel Critical Path Generation Algorithm” is accepted by...',
