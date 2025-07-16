@@ -4,10 +4,9 @@
 
 title: Che Chang # the website title (if blank, full name will be used instead)
 first_name: Che (Randy)
-middle_name: Chang
-last_name: Name
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+middle_name: # none
+last_name: Chang
+contact_note: > # contact note
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
