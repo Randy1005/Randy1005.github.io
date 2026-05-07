@@ -34,6 +34,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-pathgen-an-efficient-parallel-critical-path-generation-algorithm-is-accepted-by-2025-ieee-acm-asia-and-south-pacific-design-automation-conference-asp-dac-big-thanks-to-all-the-contributors-grinning",
           title: 'Our paper “PathGen: An Efficient Parallel Critical Path Generation Algorithm” is accepted by...',
           description: "",
+          section: "News",},{id: "news-our-paper-g-pathgen-an-efficient-gpu-parallel-k-critical-path-generation-algorithm-is-accepted-by-2026-acm-international-conference-on-supercomputing-ics-big-thanks-to-all-the-contributors-grinning",
+          title: 'Our paper “G-PathGen: An Efficient GPU-Parallel k-Critical Path Generation Algorithm” is accepted by...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
