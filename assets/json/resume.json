@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Che Chang",
-    "label": "PhD student in ECE",
+    "label": "PhD student at UW-Madison ECE",
     "image": "",
-    "email": "che.chang@wisc.edu",
+    "email": "randychang.10@gmail.com",
     "location": {
       "address": "1415 Engineering Dr.",
       "postalCode": "WI 53706",
@@ -13,6 +13,13 @@
     }
   },
   "work": [
+    {
+      "name": "Cadence Design Systems",
+      "position": "Software Engineer Intern",
+      "startDate": "2026-05-01",
+      "endDate": "2026-08-31",
+      "summary": "Designed algorithms to optimize cross-processor connection latency, accelerating hardware emulation by 10–20%."
+    },
     {
       "name": "Google",
       "position": "Student Researcher",

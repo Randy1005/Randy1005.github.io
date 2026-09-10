@@ -18,4 +18,4 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a fourth-year PhD student at the ECE department of University of Wisconsin, Madison. My research focuses on high-performance graph algorithms.
+I am a PhD student in the Department of Electrical and Computer Engineering at the University of Wisconsin–Madison, supervised by [Prof. Tsung-Wei Huang](https://tsung-wei-huang.github.io/). My research focuses on high-performance graph algorithms. Prior to my PhD, I earned my master's degree from the University of Utah and my bachelor's degree from National Cheng Kung University.
